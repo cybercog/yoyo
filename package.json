@@ -1,0 +1,33 @@
+{
+  "name": "yoyo",
+  "version": "0.1.1",
+  "description": "Yoyo is an HTTP client who wrap the new Fetch standard.",
+  "keywords": [
+    "ajax",
+    "request",
+    "promises",
+    "fetch",
+    "http"
+  ],
+  "author": "Romain Lanz <romain.lanz@slynova.ch>",
+  "main": "dist/yoyo.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Slynova-Org/yoyo"
+  },
+  "bugs": {
+    "url": "https://github.com/Slynova-Org/yoyo/issues"
+  },
+  "scripts": {
+    "build": "babel src -d dist",
+    "test": ""
+  },
+  "dependencies": {
+    "whatwg-fetch": "^0.11.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.5.1",
+    "babel-preset-es2015": "^6.5.0"
+  }
+}
