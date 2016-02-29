@@ -2,11 +2,11 @@
 
 # Yoyo
 
-[![Version](https://img.shields.io/npm/v/yoyo?style=flat-square)](https://www.npmjs.com/package/yoyo)
+[![Version](https://img.shields.io/npm/v/yoyo.svg?style=flat-square)](https://www.npmjs.com/package/yoyo)
 [![Downloads](https://img.shields.io/npm/dt/yoyo.svg?style=flat-square)](https://www.npmjs.com/package/yoyo)
 [![License](https://img.shields.io/npm/l/yoyo.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
-Yoyo is an HTTP client who wrap the new [fetch standard](https://fetch.spec.whatwg.org/), which is an **experimental technology** to replace `XMLHttpRequest`.  
+Yoyo is an HTTP client who wrap the new [fetch standard](https://fetch.spec.whatwg.org/), which is an **experimental technology** to replace `XMLHttpRequest`.
 [Some browsers haven't actually implemented the fetch standard](http://caniuse.com/#feat=fetch), for this reason we use [Github's fetch polyfill](https://github.com/github/fetch).
 
 More information about `fetch()` can be found on:
