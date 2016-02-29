@@ -55,3 +55,4 @@ client.get('http://example.com').fetchRaw()
 
 - [ ] Get 100% of code coverage.
 - [ ] Provide way to test the response status.
+- [ ] Parse XML to returns JSON.

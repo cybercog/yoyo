@@ -1,6 +1,6 @@
 {
   "name": "yoyo",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Yoyo is an HTTP client who wrap the new Fetch standard.",
   "keywords": [
     "ajax",
